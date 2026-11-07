@@ -1,0 +1,39 @@
+name: Update menu translations
+
+on:
+  push:
+    paths:
+      - 'tools/**'
+      - '.github/workflows/**'
+      - 'base-i18n.json'
+      - 'translate-cache.json'
+  schedule:
+    - cron: '23 */6 * * *'   # каждые 6 часов
+  workflow_dispatch:         # и по кнопке в разделе Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build menu-data.js from Google Sheet
+        env:
+          SHEET_ID: ${{ vars.SHEET_ID }}
+          SHEET_GID: ${{ vars.SHEET_GID }}
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          MYMEMORY_EMAIL: ${{ vars.MYMEMORY_EMAIL }}
+        run: python tools/build_menu_data.py
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update menu translations [skip ci]'
+          file_pattern: 'menu-data.js translate-cache.json'

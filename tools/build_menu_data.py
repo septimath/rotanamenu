@@ -24,11 +24,8 @@ MM_EMAIL = os.environ.get("MYMEMORY_EMAIL", "").strip()
 
 TARGET_LANGS = ["ar", "de", "fr", "it", "es"]
 TAG_INDEX = {"S": 27, "V": 28, "N": 29}
-OPT_TEMPLATES = {
-    "mezza-selection-cold-hot": {"label": 6, "max": 3,
-        "items": [[58, 65], [59], [60, 66], [61], [62, 67], [63, 68], [64, 69]]},
-    "your-choice-of-fajita": {"label": 7, "max": 1, "items": [[70], [71]]},
-}
+# Выбор опций у блюд отключён: все блюда заказываются одним нажатием.
+OPT_TEMPLATES = {}
 CACHE_FILE = "translate-cache.json"
 BASE_FILE = "base-i18n.json"
 OUT_FILE = "menu-data.js"

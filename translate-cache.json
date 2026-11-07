@@ -1,0 +1,655 @@
+{
+ "version": 1,
+ "entries": {
+  "301e3be8a645b30fa2845701c32cb3e18c996db0": {
+   "lang": "ar",
+   "src": "Soup of the day",
+   "text": "شوربة اليوم"
+  },
+  "e3d6522eb91f17c3fc5825a248862633015f4d80": {
+   "lang": "ar",
+   "src": "Ask your waiter which soup it is today.",
+   "text": "اسأل النادل عن نوع الشوربة اليوم."
+  },
+  "6bb45a03c441d657ed7f2a70fa48734a13818ae1": {
+   "lang": "ar",
+   "src": "Seafood velvet soup with cream",
+   "text": "شوربة كريمية بالمأكولات البحرية"
+  },
+  "aef034b4450c2febbcbebc5397dbece86aa2a97b": {
+   "lang": "ar",
+   "src": "Raw salad",
+   "text": "سلطة طازجة"
+  },
+  "fc39d8f64c65559fae95cc4d24328327a5627d28": {
+   "lang": "ar",
+   "src": "Mixed leaves, red onions, radish, red bell pepper, cherry tomatoes and feta with herb dressing.",
+   "text": "أوراق مشكلة، بصل أحمر، فجل، فلفل أحمر حلو، طماطم كرزية وجبنة فيتا مع صلصة الأعشاب."
+  },
+  "227db5a72d66a20433fc9bc209d3ca865a487e4c": {
+   "lang": "ar",
+   "src": "Fried calamari rings",
+   "text": "حلقات كالاماري مقلية"
+  },
+  "09f0ba7ff4f24e298cf4012f96e1dc848acbeaa1": {
+   "lang": "ar",
+   "src": "Deep-fried squid seasoned with salt and black pepper, served with sweet chili coriander dip.",
+   "text": "كالاماري مقلي بالملح والفلفل الأسود، يقدم مع صلصة حلوة بالفلفل الحار والكزبرة."
+  },
+  "ac75c7e44a9a76ebe146668287d02979cad0a3aa": {
+   "lang": "ar",
+   "src": "Mezza selection, cold & hot",
+   "text": "مقبلات مازة، باردة وساخنة"
+  },
+  "e8b223dda17093e01edecbc3c092b718316e8dfb": {
+   "lang": "ar",
+   "src": "Three items of your choice.",
+   "text": "ثلاثة أصناف من اختيارك."
+  },
+  "c32744dcd33c628430af999dbd2f8840c6ef8ca4": {
+   "lang": "ar",
+   "src": "Seafood symphony",
+   "text": "سيمفونية المأكولات البحرية"
+  },
+  "1a4f6bd7d3714c818c76e30e600acab51a1854a3": {
+   "lang": "ar",
+   "src": "Grilled prawns, calamari, mussels and fish with lemon, parsley and pesto.",
+   "text": "جمبري مشوي، كالاماري، بلح البحر وسمك مع الليمون والبقدونس والبيستو."
+  },
+  "b7164a3c52e7f8e48996427655d80fb803e7bea0": {
+   "lang": "ar",
+   "src": "Your choice of fajita",
+   "text": "فاهيتا من اختيارك"
+  },
+  "1aedaaee585eb7487e382b838f877868f06e77d0": {
+   "lang": "ar",
+   "src": "Tortilla, meat, peppers, cheese, sour cream, tomato salsa and guacamole.",
+   "text": "تورتيا، لحم، فلفل، جبنة، كريمة حامضة، صلصة الطماطم والأفوكادو."
+  },
+  "db5512f3a48355f299300ebf294acef5202bc51b": {
+   "lang": "ar",
+   "src": "Grilled salmon",
+   "text": "سلمون مشوي"
+  },
+  "ded3e656664814d3b584a60cefd049635f4a30bd": {
+   "lang": "ar",
+   "src": "Grilled over charcoal, with a fricassee of asparagus, shrimps and cream.",
+   "text": "يشوى على الفحم، يقدم مع طبق من الهليون والجمبري والكريمة."
+  },
+  "de1eefb785ee0d9d9e1987de96bee1b245c789c8": {
+   "lang": "ar",
+   "src": "Oriental mix grilled",
+   "text": "ميكس شرقي مشوي"
+  },
+  "e7931451d7ff6a17b1d37228dbd8430ef609a875": {
+   "lang": "ar",
+   "src": "Oriental rice, shish kebab, shish tawook and kofta.",
+   "text": "أرز شرقي، شيش كباب، شيش طاووق وكفتة."
+  },
+  "33c043a153a51c45a7f128cfab8786d1e7bf0f28": {
+   "lang": "ar",
+   "src": "The gourmet burger",
+   "text": "برجر جورميه"
+  },
+  "5eb136facfab424278c95de422fd0a395f4a5497": {
+   "lang": "ar",
+   "src": "All-beef burger from the grill with Swiss cheese, tomato relish and potato wedges.",
+   "text": "برجر بقري من الشواية مع جبنة سويسرية ومخلل الطماطم وشرائح البطاطس."
+  },
+  "0c80581d0c1911228893c91d56777880312568a2": {
+   "lang": "ar",
+   "src": "Classic crème brûlée",
+   "text": "كريم بروليه كلاسيكي"
+  },
+  "5ad9bcb5dfc4da58bc05483907916ad8bc1a7983": {
+   "lang": "ar",
+   "src": "Scented with vanilla and served with an almond biscuit.",
+   "text": "بنكهة الفانيليا، يقدم مع بسكويت اللوز."
+  },
+  "897caf13c748e19c22d6736f0ccdb9c4ec21aee7": {
+   "lang": "ar",
+   "src": "Chocolate brownie",
+   "text": "براوني بالشوكولاتة"
+  },
+  "12ecc7ab5916438d8f866e92ea6530390b117147": {
+   "lang": "ar",
+   "src": "With vanilla ice cream and caramel essence.",
+   "text": "مع آيس كريم الفانيليا وخلاصة الكراميل."
+  },
+  "4a6fad9c3c841400f485f475f281b78897765f07": {
+   "lang": "ar",
+   "src": "Seasonal fresh fruit",
+   "text": "فواكه طازجة موسمية"
+  },
+  "b34387c290722e3e66e06d26c2fc5a41bff96069": {
+   "lang": "ar",
+   "src": "Carved and served with a berry dip.",
+   "text": "مقطعة وتقدم مع صلصة التوت."
+  },
+  "544cf621284fbd368daf0442904a5282a2e2a7ca": {
+   "lang": "ar",
+   "src": "Ice cream selection, per scoop",
+   "text": "آيس كريم من اختيارك، للسكوب الواحد"
+  },
+  "81994d1e8d9e71fb354a3c51e3d48d190d957222": {
+   "lang": "de",
+   "src": "Soup of the day",
+   "text": "Suppe des Tages"
+  },
+  "ed398f9af9fc20db03d83b2033ea438d74bcfc96": {
+   "lang": "de",
+   "src": "Ask your waiter which soup it is today.",
+   "text": "Fragen Sie Ihren Kellner, welche Suppe es heute gibt."
+  },
+  "2d7d2bde7dbb559e8e181d883a9fcfa2bc608408": {
+   "lang": "de",
+   "src": "Seafood velvet soup with cream",
+   "text": "Cremige Meeresfrüchtesuppe"
+  },
+  "2896a3e786ab8f39aca0fa6b7e604b8c6af09966": {
+   "lang": "de",
+   "src": "Raw salad",
+   "text": "Frischer Salat"
+  },
+  "fb51e6ce861a74c9daff1b62da056a176b822ff3": {
+   "lang": "de",
+   "src": "Mixed leaves, red onions, radish, red bell pepper, cherry tomatoes and feta with herb dressing.",
+   "text": "Blattsalate, rote Zwiebeln, Radieschen, rote Paprika, Kirschtomaten und Feta mit Kräuterdressing."
+  },
+  "0dce3a981ffed51e5bbd8e6933bf20606b7b9d70": {
+   "lang": "de",
+   "src": "Fried calamari rings",
+   "text": "Frittierte Calamari-Ringe"
+  },
+  "8b3faf9cfe51e2b0ae203300a0715eac44ad3f13": {
+   "lang": "de",
+   "src": "Deep-fried squid seasoned with salt and black pepper, served with sweet chili coriander dip.",
+   "text": "In Öl frittierte Calamari mit Salz und schwarzem Pfeffer, serviert mit süßem Chili-Koriander-Dip."
+  },
+  "a00f10b7d3719e2a9460de76c06f0bc89500cacd": {
+   "lang": "de",
+   "src": "Mezza selection, cold & hot",
+   "text": "Mezze-Auswahl, kalt & warm"
+  },
+  "cd1b9ca33dd1ed6c02457820823a846fe983ac28": {
+   "lang": "de",
+   "src": "Three items of your choice.",
+   "text": "Drei Positionen nach Ihrer Wahl."
+  },
+  "6aa0fbb93bc54ac264ec79af5d0c4b459ac4f153": {
+   "lang": "de",
+   "src": "Seafood symphony",
+   "text": "Meeresfrüchte-Symphonie"
+  },
+  "f7eeef3998713c761518652a67a2b6ad0ad7c523": {
+   "lang": "de",
+   "src": "Grilled prawns, calamari, mussels and fish with lemon, parsley and pesto.",
+   "text": "Gegrillte Garnelen, Calamari, Miesmuscheln und Fisch mit Zitrone, Petersilie und Pesto."
+  },
+  "16e0d24e3dec24a7f5cbd8bd5d213b368a9d693e": {
+   "lang": "de",
+   "src": "Your choice of fajita",
+   "text": "Fajita nach Wahl"
+  },
+  "27755c8e5455f6c845228d3aa515a3778d637a95": {
+   "lang": "de",
+   "src": "Tortilla, meat, peppers, cheese, sour cream, tomato salsa and guacamole.",
+   "text": "Tortilla, Fleisch, Paprika, Käse, Sauerrahm, Tomaten-Salsa und Guacamole."
+  },
+  "029cf83907002a66c0ec2fd7a1483e470c253cab": {
+   "lang": "de",
+   "src": "Grilled salmon",
+   "text": "Gegrillter Lachs"
+  },
+  "684f2facd085bf0d7d229f562df2dc283c821610": {
+   "lang": "de",
+   "src": "Grilled over charcoal, with a fricassee of asparagus, shrimps and cream.",
+   "text": "Über Holzkohle gegrillt, mit Spargel-, Garnelen- und Sahne-Frikassee."
+  },
+  "2f1b0343174944000eb3884bfe57744f29712468": {
+   "lang": "de",
+   "src": "Oriental mix grilled",
+   "text": "Orientalische Grillplatte"
+  },
+  "f42be4a132d49f88cdd11ee228e1da49817cf50c": {
+   "lang": "de",
+   "src": "Oriental rice, shish kebab, shish tawook and kofta.",
+   "text": "Orientalischer Reis, Schaschlik, Shish Tawook und Köfte."
+  },
+  "56ea6156acba222f9cbe59d62376856130d51710": {
+   "lang": "de",
+   "src": "The gourmet burger",
+   "text": "Gourmet-Burger"
+  },
+  "da15e4c2157f76de162521753a3786157d0b7467": {
+   "lang": "de",
+   "src": "All-beef burger from the grill with Swiss cheese, tomato relish and potato wedges.",
+   "text": "Rinderburger vom Grill mit Schweizer Käse, Tomaten-Relish und Kartoffelecken."
+  },
+  "3b11eef299c734de2b00d851a697e89e2be9a9fb": {
+   "lang": "de",
+   "src": "Classic crème brûlée",
+   "text": "Klassische Crème brûlée"
+  },
+  "3f7bc667a3be8ddafdf9f915ec520c6dd9fb2720": {
+   "lang": "de",
+   "src": "Scented with vanilla and served with an almond biscuit.",
+   "text": "Mit Vanille verfeinert und mit Mandelgebäck serviert."
+  },
+  "b02d73a7e72d7fac21487b17d8e529e6edc56172": {
+   "lang": "de",
+   "src": "Chocolate brownie",
+   "text": "Schokoladen-Brownie"
+  },
+  "44a977c188db0345dde27b0da86912a982044842": {
+   "lang": "de",
+   "src": "With vanilla ice cream and caramel essence.",
+   "text": "Mit Vanilleeis und Karamell-Essenz."
+  },
+  "61948f1a4c4a9783904a40985fa7ab01c366c5f0": {
+   "lang": "de",
+   "src": "Seasonal fresh fruit",
+   "text": "Frisches Saisonobst"
+  },
+  "cc0ffc7e7708f134cc851c1dc4e128a9f3d53130": {
+   "lang": "de",
+   "src": "Carved and served with a berry dip.",
+   "text": "Geschnitten und mit Beerendip serviert."
+  },
+  "65645bca12c78a3db266d90fbffaa54ebbb907e9": {
+   "lang": "de",
+   "src": "Ice cream selection, per scoop",
+   "text": "Eis nach Wahl, pro Kugel"
+  },
+  "37af16e1239eeba065d5920b515e9813332dc1d4": {
+   "lang": "fr",
+   "src": "Soup of the day",
+   "text": "Soupe du jour"
+  },
+  "bf788bacff39498177b6a914eecabf952d04de55": {
+   "lang": "fr",
+   "src": "Ask your waiter which soup it is today.",
+   "text": "Demandez au serveur quelle soupe est proposée aujourd'hui."
+  },
+  "7dc8eee8a65a57e523fb081dbd2c6d54efc82348": {
+   "lang": "fr",
+   "src": "Seafood velvet soup with cream",
+   "text": "Velouté de fruits de mer à la crème"
+  },
+  "1f80464259d0c751300f12588e2a0ca30cbe2f16": {
+   "lang": "fr",
+   "src": "Raw salad",
+   "text": "Salade fraîche"
+  },
+  "b9ebf67af3c1024701a05ac9cd39f0729bb2b9e6": {
+   "lang": "fr",
+   "src": "Mixed leaves, red onions, radish, red bell pepper, cherry tomatoes and feta with herb dressing.",
+   "text": "Mélange de feuilles, oignons rouges, radis, poivron rouge, tomates cerises et feta avec vinaigrette aux herbes."
+  },
+  "36884432fc6aa69d641a6cf81a806839d1c0c0aa": {
+   "lang": "fr",
+   "src": "Fried calamari rings",
+   "text": "Calamars frits en rondelles"
+  },
+  "8efd0c458e786efea9ec19f41cc68a4abb423e04": {
+   "lang": "fr",
+   "src": "Deep-fried squid seasoned with salt and black pepper, served with sweet chili coriander dip.",
+   "text": "Calamars frits au sel et poivre noir, servis avec une sauce douce au chili et à la coriandre."
+  },
+  "4e90aa28574beeeabdba69a6139b440f43205d44": {
+   "lang": "fr",
+   "src": "Mezza selection, cold & hot",
+   "text": "Assortiment de mezze, froids & chauds"
+  },
+  "e13033d4df7735fddae791d49480796c1a28e3c5": {
+   "lang": "fr",
+   "src": "Three items of your choice.",
+   "text": "Trois spécialités au choix."
+  },
+  "d5a9656b3ced4f3316bf90a079bcb33b818ca40a": {
+   "lang": "fr",
+   "src": "Seafood symphony",
+   "text": "Symphonie de fruits de mer"
+  },
+  "6ea7cf191077c151f9e0b8eff106340e3c2546dc": {
+   "lang": "fr",
+   "src": "Grilled prawns, calamari, mussels and fish with lemon, parsley and pesto.",
+   "text": "Crevettes grillées, calamars, moules et poisson au citron, persil et pesto."
+  },
+  "b3b2ace33ab3b83297d3fe92da4d5f289a0079dd": {
+   "lang": "fr",
+   "src": "Your choice of fajita",
+   "text": "Fajitas au choix"
+  },
+  "7a69073cac1b09b77705321153e3f4d45198e49c": {
+   "lang": "fr",
+   "src": "Tortilla, meat, peppers, cheese, sour cream, tomato salsa and guacamole.",
+   "text": "Tortilla, viande, poivrons, fromage, crème fraîche, salsa de tomates et guacamole."
+  },
+  "3ae8dfca6861e346bea2cb12bf19e062c447a3b9": {
+   "lang": "fr",
+   "src": "Grilled salmon",
+   "text": "Saumon grillé"
+  },
+  "245ecfb84d74bd8eaf6ec75fb53ef84497f6f860": {
+   "lang": "fr",
+   "src": "Grilled over charcoal, with a fricassee of asparagus, shrimps and cream.",
+   "text": "Grillé au charbon, avec fricassée d'asperges, crevettes et crème."
+  },
+  "edf2979431e960b1f2c8456bb88f9d523f72b41d": {
+   "lang": "fr",
+   "src": "Oriental mix grilled",
+   "text": "Mixte oriental grillé"
+  },
+  "343cc14e092a6a4f90079e573c4a22de2653393a": {
+   "lang": "fr",
+   "src": "Oriental rice, shish kebab, shish tawook and kofta.",
+   "text": "Riz oriental, chich kebab, chich taouk et kafta."
+  },
+  "31d3fa0cd2cefa21d9263914e6fe057a6e2f2162": {
+   "lang": "fr",
+   "src": "The gourmet burger",
+   "text": "Burger gourmand"
+  },
+  "2574001b856f1152b5020513ddd5ed0f7354231e": {
+   "lang": "fr",
+   "src": "All-beef burger from the grill with Swiss cheese, tomato relish and potato wedges.",
+   "text": "Burger de bœuf grillé avec fromage suisse, relish de tomates et potatoes."
+  },
+  "c3585cc4524e7ea4b9c03c02f8dae3fe58ec1bdb": {
+   "lang": "fr",
+   "src": "Classic crème brûlée",
+   "text": "Crème brûlée classique"
+  },
+  "3e77978f2f57d69a5659244868ed0f3e63ee9fde": {
+   "lang": "fr",
+   "src": "Scented with vanilla and served with an almond biscuit.",
+   "text": "Parfumée à la vanille, servie avec un biscuit à l'amande."
+  },
+  "5858eeca02129573305eb62e2bb20094e7721369": {
+   "lang": "fr",
+   "src": "Chocolate brownie",
+   "text": "Brownie au chocolat"
+  },
+  "b704d9887e80d31ad5e2f8ae56e3334f92c46d73": {
+   "lang": "fr",
+   "src": "With vanilla ice cream and caramel essence.",
+   "text": "Avec glace à la vanille et essence de caramel."
+  },
+  "20362d22f29e5893340e12011ba879ab4439abbc": {
+   "lang": "fr",
+   "src": "Seasonal fresh fruit",
+   "text": "Fruits frais de saison"
+  },
+  "6b3c1775440c93e553b3e6922144446f77834091": {
+   "lang": "fr",
+   "src": "Carved and served with a berry dip.",
+   "text": "Taillés et servis avec une sauce aux baies."
+  },
+  "e924d121bf05d0c323a13f41f55eddcdb6a0f873": {
+   "lang": "fr",
+   "src": "Ice cream selection, per scoop",
+   "text": "Choix de glaces, par boule"
+  },
+  "4a99226ae580aa65c233a49b56baa9d97e27e9d0": {
+   "lang": "it",
+   "src": "Soup of the day",
+   "text": "Zuppa del giorno"
+  },
+  "32a0175bba02ae99743bc1bb1b0ecfbe19db9c5b": {
+   "lang": "it",
+   "src": "Ask your waiter which soup it is today.",
+   "text": "Chiedete al cameriere quale zuppa è prevista oggi."
+  },
+  "7fe3a2b8e10cd39f1ffaf8249be174bdb9792dfe": {
+   "lang": "it",
+   "src": "Seafood velvet soup with cream",
+   "text": "Vellutata di frutti di mare con panna"
+  },
+  "506ab2cb3e232e29ea10f722eaea612e9532f104": {
+   "lang": "it",
+   "src": "Raw salad",
+   "text": "Insalata fresca"
+  },
+  "e5e7be2251e515f8362d411d7428989ee7e9800c": {
+   "lang": "it",
+   "src": "Mixed leaves, red onions, radish, red bell pepper, cherry tomatoes and feta with herb dressing.",
+   "text": "Foglie miste, cipolle rosse, ravanelli, peperone rosso, pomodorini e feta con dressing alle erbe."
+  },
+  "8699a19bde2f5ad63b962e644abfb149aa892090": {
+   "lang": "it",
+   "src": "Fried calamari rings",
+   "text": "Calamari fritti a anelli"
+  },
+  "fdbd68a85431b6329382fafed8c8db6b2bef0cc3": {
+   "lang": "it",
+   "src": "Deep-fried squid seasoned with salt and black pepper, served with sweet chili coriander dip.",
+   "text": "Calamari fritti con sale e pepe nero, serviti con salsa dolce al chili e coriandolo."
+  },
+  "f079ae73056343c186d1acc1d8e90dcc1739fe00": {
+   "lang": "it",
+   "src": "Mezza selection, cold & hot",
+   "text": "Selezione di mezze, freddi e caldi"
+  },
+  "bb81a4051ef9e09a5fc6b940d4d95f77233cd47c": {
+   "lang": "it",
+   "src": "Three items of your choice.",
+   "text": "Tre portate a scelta."
+  },
+  "ba2fd1d5a65472c81428debda544fe04944aafd3": {
+   "lang": "it",
+   "src": "Seafood symphony",
+   "text": "Sinfonia di frutti di mare"
+  },
+  "13f13529775ac4028958091d9be68e809ac97dd0": {
+   "lang": "it",
+   "src": "Grilled prawns, calamari, mussels and fish with lemon, parsley and pesto.",
+   "text": "Gamberi grigliati, calamari, cozze e pesce con limone, prezzemolo e pesto."
+  },
+  "119a2b0d759ab833f25d33edbc21dc08942aebe5": {
+   "lang": "it",
+   "src": "Your choice of fajita",
+   "text": "Fajita a scelta"
+  },
+  "d4a09d7104e07c00423391eb68d4688c93f11ee4": {
+   "lang": "it",
+   "src": "Tortilla, meat, peppers, cheese, sour cream, tomato salsa and guacamole.",
+   "text": "Tortilla, carne, peperoni, formaggio, panna acida, salsa di pomodoro e guacamole."
+  },
+  "969ecb166521e07184dc906220de30ef500cb210": {
+   "lang": "it",
+   "src": "Grilled salmon",
+   "text": "Salmone alla griglia"
+  },
+  "216690050337a969c8ac86516e4a5230c5c3f2d1": {
+   "lang": "it",
+   "src": "Grilled over charcoal, with a fricassee of asparagus, shrimps and cream.",
+   "text": "Grigliato su carbonella, con fricassea di asparagi, gamberetti e panna."
+  },
+  "f1d574c945ca20e2daf410decf5a7e47f8af83d0": {
+   "lang": "it",
+   "src": "Oriental mix grilled",
+   "text": "Mix orientale alla griglia"
+  },
+  "c2d33c41cf09e14243083e35bbf80fb32244d477": {
+   "lang": "it",
+   "src": "Oriental rice, shish kebab, shish tawook and kofta.",
+   "text": "Riso orientale, shish kebab, shish tawook e kofta."
+  },
+  "3efb226daa0b1b8b66ea5c9af549d19c65187cf9": {
+   "lang": "it",
+   "src": "The gourmet burger",
+   "text": "Burger gourmet"
+  },
+  "2206141a4a15e01f365e385406ac6b6cadc34359": {
+   "lang": "it",
+   "src": "All-beef burger from the grill with Swiss cheese, tomato relish and potato wedges.",
+   "text": "Burger di manzo alla griglia con formaggio svizzero, relish di pomodoro e patate a spicchi."
+  },
+  "499a4d31648c08031143831804a16da338609c05": {
+   "lang": "it",
+   "src": "Classic crème brûlée",
+   "text": "Crème brûlée classica"
+  },
+  "59c38ce2c119340d2af2d33a210cc80a053f814e": {
+   "lang": "it",
+   "src": "Scented with vanilla and served with an almond biscuit.",
+   "text": "Profumata alla vaniglia, servita con biscotto alle mandorle."
+  },
+  "2b38dfb6fc78bb665c2ccd6e9d7bc8daffc92ef8": {
+   "lang": "it",
+   "src": "Chocolate brownie",
+   "text": "Brownie al cioccolato"
+  },
+  "09dba9e8067734bbcd9ac3eeaf3b2c6a3a2c90e0": {
+   "lang": "it",
+   "src": "With vanilla ice cream and caramel essence.",
+   "text": "Con gelato alla vaniglia e essenza di caramello."
+  },
+  "3ce9826e0dd5e740088845822a6477f58fbe5776": {
+   "lang": "it",
+   "src": "Seasonal fresh fruit",
+   "text": "Frutta fresca di stagione"
+  },
+  "42025ecd083d7451707b366889d0d4a52a7df0b2": {
+   "lang": "it",
+   "src": "Carved and served with a berry dip.",
+   "text": "Tagliata e servita con salsa di frutti di bosco."
+  },
+  "d4538f36b7c2000d2cee44b148c7e20287b994a0": {
+   "lang": "it",
+   "src": "Ice cream selection, per scoop",
+   "text": "Scelta di gelato, a pallina"
+  },
+  "1e8733d1e200a818dcb2bb6098c1f2adaa802148": {
+   "lang": "es",
+   "src": "Soup of the day",
+   "text": "Sopa del día"
+  },
+  "3a7f84f94f4f678afc2239d89aea56f97ffa5a78": {
+   "lang": "es",
+   "src": "Ask your waiter which soup it is today.",
+   "text": "Pregunte al camarero qué sopa hay hoy."
+  },
+  "cdc14ba80b779da08319f6529d1dca0282a2c684": {
+   "lang": "es",
+   "src": "Seafood velvet soup with cream",
+   "text": "Crema de mariscos con nata"
+  },
+  "fe9f77c46ea5b713b54790a882278133f2815b3c": {
+   "lang": "es",
+   "src": "Raw salad",
+   "text": "Ensalada fresca"
+  },
+  "e39f4af529bfa3d987ccd5b115fd4bddc514bca6": {
+   "lang": "es",
+   "src": "Mixed leaves, red onions, radish, red bell pepper, cherry tomatoes and feta with herb dressing.",
+   "text": "Mezcla de hojas, cebolla roja, rábanos, pimiento rojo, tomates cherry y feta con aliño de hierbas."
+  },
+  "bb0c4edf172b25fb09081f05159dca4e5039a3d6": {
+   "lang": "es",
+   "src": "Fried calamari rings",
+   "text": "Calamares fritos en aros"
+  },
+  "989ff3c12a6959cf1ab896b14dfb2ef53d465198": {
+   "lang": "es",
+   "src": "Deep-fried squid seasoned with salt and black pepper, served with sweet chili coriander dip.",
+   "text": "Calamares fritos con sal y pimienta negra, servidos con salsa dulce de chile y cilantro."
+  },
+  "0f70fd573df7cbebbe1ba2c4d7e9a4b10015d69e": {
+   "lang": "es",
+   "src": "Mezza selection, cold & hot",
+   "text": "Selección de mezze, fríos y calientes"
+  },
+  "0e198dac5aaf9f509dbf4fa78b735279a85c4402": {
+   "lang": "es",
+   "src": "Three items of your choice.",
+   "text": "Tres opciones a elegir."
+  },
+  "f40756c77643e2a71eb567410263cb2233a1d9ed": {
+   "lang": "es",
+   "src": "Seafood symphony",
+   "text": "Sinfonía de mariscos"
+  },
+  "e137d23b2164fe669ea35a4603789995ad07b7b0": {
+   "lang": "es",
+   "src": "Grilled prawns, calamari, mussels and fish with lemon, parsley and pesto.",
+   "text": "Gambas a la parrilla, calamares, mejillones y pescado con limón, perejil y pesto."
+  },
+  "2c7a1a0bed65552c2d178578915ef031cc50cbfc": {
+   "lang": "es",
+   "src": "Your choice of fajita",
+   "text": "Fajita a elegir"
+  },
+  "5721defc6cd496f04e7975f3948f0bb694422305": {
+   "lang": "es",
+   "src": "Tortilla, meat, peppers, cheese, sour cream, tomato salsa and guacamole.",
+   "text": "Tortilla, carne, pimientos, queso, nata, salsa de tomate y guacamole."
+  },
+  "bcefe56ef65d1dfc0ed5eb6524abe7e7a20393fd": {
+   "lang": "es",
+   "src": "Grilled salmon",
+   "text": "Salmón a la parrilla"
+  },
+  "a25832123e2e16deafc6ca400faa6043e5d87492": {
+   "lang": "es",
+   "src": "Grilled over charcoal, with a fricassee of asparagus, shrimps and cream.",
+   "text": "A la brasa, con fricasé de espárragos, gambas y nata."
+  },
+  "d1f7a4c9c53be846aa56eb5bd9e227a9e3fe0a27": {
+   "lang": "es",
+   "src": "Oriental mix grilled",
+   "text": "Parrillada oriental"
+  },
+  "55196d59b46e391717ad1fc710467b7fe9c47923": {
+   "lang": "es",
+   "src": "Oriental rice, shish kebab, shish tawook and kofta.",
+   "text": "Arroz oriental, shish kebab, shish tawook y kofta."
+  },
+  "9ac0502e34775267968fa2ed8468e2b13c34621d": {
+   "lang": "es",
+   "src": "The gourmet burger",
+   "text": "Hamburguesa gourmet"
+  },
+  "e71910f9befff6e80cf643f13eddbfc7d44aaa6a": {
+   "lang": "es",
+   "src": "All-beef burger from the grill with Swiss cheese, tomato relish and potato wedges.",
+   "text": "Hamburguesa de ternera a la parrilla con queso suizo, relish de tomate y patatas gajo."
+  },
+  "fde6b27e693cd02cf7719bcf57ea63ae9954835c": {
+   "lang": "es",
+   "src": "Classic crème brûlée",
+   "text": "Crème brûlée clásico"
+  },
+  "4060ce3a9dfa51195a7b29d9a5f350ec2eed87ab": {
+   "lang": "es",
+   "src": "Scented with vanilla and served with an almond biscuit.",
+   "text": "Con aroma de vainilla, servido con galleta de almendra."
+  },
+  "1e84ee9cc0716393e72c8a480c5e42f05f0fba98": {
+   "lang": "es",
+   "src": "Chocolate brownie",
+   "text": "Brownie de chocolate"
+  },
+  "d1c7eafd7fade295c0f99a574170f4bd663d4eda": {
+   "lang": "es",
+   "src": "With vanilla ice cream and caramel essence.",
+   "text": "Con helado de vainilla y esencia de caramelo."
+  },
+  "1b3a69709d9f685ace78c1d0f44e578740408d48": {
+   "lang": "es",
+   "src": "Seasonal fresh fruit",
+   "text": "Fruta fresca de temporada"
+  },
+  "0ef18eeaf8e10be4a3d2e041c84a48d33d157aa4": {
+   "lang": "es",
+   "src": "Carved and served with a berry dip.",
+   "text": "Cortada y servida con salsa de bayas."
+  },
+  "840d87fc9a5bba81b2b8114d65fc06e08d93f8b5": {
+   "lang": "es",
+   "src": "Ice cream selection, per scoop",
+   "text": "Selección de helado, por bola"
+  }
+ }
+}

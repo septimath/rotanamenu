@@ -650,6 +650,31 @@
    "lang": "es",
    "src": "Ice cream selection, per scoop",
    "text": "Selección de helado, por bola"
+  },
+  "0172cc0a54eacc7b6c1eb7d76670c4ecd713d9da": {
+   "lang": "ar",
+   "src": "Lamb kibbeh, cheese, meat sambousek, cheese tahini, hummus, fattoush, tabouleh.",
+   "text": "كبة ضأن، جبنة، سمبوسك لحم، طحينة جبنة، حمص، فتوش، تبولة."
+  },
+  "d88ac4d032775f00a05e6a2a4164e4278e470d5e": {
+   "lang": "de",
+   "src": "Lamb kibbeh, cheese, meat sambousek, cheese tahini, hummus, fattoush, tabouleh.",
+   "text": "Lammkibbeh, Käse, Fleischsambousek, Käse-Tahini, Hummus, Fattoush, Tabouleh."
+  },
+  "fb082f205b7116bef5927aaeb9433c5505f6b02f": {
+   "lang": "fr",
+   "src": "Lamb kibbeh, cheese, meat sambousek, cheese tahini, hummus, fattoush, tabouleh.",
+   "text": "Kibbeh d'agneau, fromage, sambousek de viande, tahini de fromage, houmous, fattoush, tabouleh."
+  },
+  "23610171e12b81e769915d634a5c721d509d41ab": {
+   "lang": "it",
+   "src": "Lamb kibbeh, cheese, meat sambousek, cheese tahini, hummus, fattoush, tabouleh.",
+   "text": "Kibbeh di agnello, formaggio, sambousek di carne, tahini di formaggio, hummus, fattoush, tabouleh."
+  },
+  "1311aed9acd49e0de7952d1d623cbe3616f7e714": {
+   "lang": "es",
+   "src": "Lamb kibbeh, cheese, meat sambousek, cheese tahini, hummus, fattoush, tabouleh.",
+   "text": "Kibbeh de cordero, queso, sambousek de carne, tahini de queso, hummus, fattoush, tabouleh."
   }
  }
 }

@@ -43,39 +43,7 @@ window.MENU = {
     {
      "id": "mezza-selection-cold-hot",
      "n": 76,
-     "d": 90,
-     "opt": {
-      "label": 6,
-      "max": 3,
-      "items": [
-       [
-        58,
-        65
-       ],
-       [
-        59
-       ],
-       [
-        60,
-        66
-       ],
-       [
-        61
-       ],
-       [
-        62,
-        67
-       ],
-       [
-        63,
-        68
-       ],
-       [
-        64,
-        69
-       ]
-      ]
-     }
+     "d": 90
     }
    ]
   },
@@ -94,19 +62,7 @@ window.MENU = {
     {
      "id": "your-choice-of-fajita",
      "n": 78,
-     "d": 92,
-     "opt": {
-      "label": 7,
-      "max": 1,
-      "items": [
-       [
-        70
-       ],
-       [
-        71
-       ]
-      ]
-     }
+     "d": 92
     },
     {
      "id": "grilled-salmon",
